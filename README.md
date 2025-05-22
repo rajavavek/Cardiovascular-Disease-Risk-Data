@@ -1,5 +1,8 @@
 # Cardiovascular-Disease-Risk-Data
 
+[![Dataset](https://img.shields.io/badge/Dataset--blue?logo=)](https://github.com/rajavavek/Cardiovascular-Disease-Risk-Data/blob/main/Patients%20Data.csv)  [![Demo](https://img.shields.io/badge/Demo-Demo-pink?logo=playstation)](https://github.com/rajavavek/Cardiovascular-Disease-Risk-Data/blob/main/Patients%20Data.csv)
+
+
 This dataset contains information on the biochemical markers used to assess cardiovascular disease (CVD) risk in urban and rural populations in Pakistan. The study compares the role of biochemical markers in assessing CVD risk factors between these two populations, with a focus on total cholesterol, LDL, HDL, triglycerides, hs-CRP, and fasting blood glucose levels. Additionally, demographic and lifestyle factors such as physical activity, smoking, alcohol consumption, and dietary habits are included.
 
 The dataset was collected from a cross-sectional study with 120 participants, including 60 from urban areas and 60 from rural areas. The study aims to highlight the impact of urbanization on cardiovascular risk.
